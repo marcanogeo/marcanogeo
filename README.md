@@ -1,4 +1,4 @@
-(https://www.canva.com/design/DAFq54bLQ4c/watch)
+(https://www.dropbox.com/scl/fi/rrul0webhq68asgdz63rx/Hola.png?rlkey=9swpme8hhocbqup9umhufujao&dl=0)
 Hola 👋
 
 🙋‍♀️ Mi nombre es Georgelys Marcano 
