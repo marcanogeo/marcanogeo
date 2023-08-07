@@ -2,7 +2,7 @@ Hola 👋
 
 🙋‍♀️ Mi nombre es Georgelys Marcano 
 
-💻 Desarollador Web, enamorada del FrontEnd, 
+💻 Desarollador Web, ❤️ enamorada del FrontEnd, 
 
 📱 Sumergiendome en el mundo del Desarrollo de Apps Mobile en Kotlin 
 
