@@ -4,13 +4,13 @@ Hola 👋
 
 💻 Desarollador Web, ❤️ enamorada del FrontEnd, 
 
-📱 Sumergiendome en el mundo del Desarrollo de Apps Mobile en Kotlin 
+📱 Descubriendo el encantador mundo del Desarrollo de Apps Mobile en Kotlin (Android Studio)
 
 👩‍🎓 Estudiante constante, siempre aprendiendo nuevas tecnologías 
 
 👩‍🏫 Profesor virtual universitario
 
-**Tecnologías que he manejado**
+**##Tecnologías en las que trabajado**
 
 - Kotlin
 - Android Studio
