@@ -1,4 +1,4 @@
-(images/bannerGithub.png)      
+!(images/bannerGithub.png)      
 Hola 👋
 
 🙋‍♀️ Mi nombre es Georgelys Marcano 
