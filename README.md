@@ -1,4 +1,4 @@
-!(images/bannerGithub.png)      
+![https://github.com/marcanog](images/bannerGithub.png)      
 Hola 👋
 
 🙋‍♀️ Mi nombre es Georgelys Marcano 
@@ -41,3 +41,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[images/bannerGithub.png]: images/bannerGithub.png
