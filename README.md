@@ -13,7 +13,7 @@
 ### 👩‍🏫 Profesor virtual universitario
 
 ### **Tecnologías en las que trabajado**
-  ### + Kotlin
+  ### * Kotlin
   ### + Android Studio
   ### + Laravel
   ### + BootStrap
