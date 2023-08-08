@@ -7,7 +7,7 @@
 
 ## Hola 👋
 
-#### 🙋‍♀️ Mi nombre es Georgelys Marcano 
+#### 🙋‍♀️ Mi nombre es ## Georgelys Marcano 
 
 #### 💻 Desarolladora Web, ❤️ enamorada del FrontEnd y del Diseño Web 
 
