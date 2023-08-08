@@ -12,20 +12,19 @@
 
 ### 👩‍🏫 Profesor virtual universitario
 
-### **Tecnologías en las que trabajado**
-
-### - Kotlin
-### - Android Studio
-### - Laravel
-### - BootStrap
-### - HTML
-### - CSS
-### - PHP
-### - MySql
-### - PostgreSQL
-### - Figma
-### - AdobeXD
-### - BootStrap Studio
+### 100. **Tecnologías en las que trabajado**
+    ### - Kotlin
+    ### - Android Studio
+    ### - Laravel
+    ### - BootStrap
+    ### - HTML
+    ### - CSS
+    ### - PHP
+    ### - MySql
+    ### - PostgreSQL
+    ### - Figma
+    ### - AdobeXD
+    ### - BootStrap Studio
 
 
 <!--
