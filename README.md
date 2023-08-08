@@ -12,7 +12,7 @@
 
 ### 👩‍🏫 Profesor virtual universitario
 
-### **_Tecnologías en las que trabajado_**
+### **Tecnologías en las que trabajado**
 
 ### - Kotlin
 ### - Android Studio
