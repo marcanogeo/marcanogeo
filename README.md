@@ -4,28 +4,28 @@
 
 ### 🙋‍♀️ Mi nombre es Georgelys Marcano 
 
-### 💻 Desarolladora Web, ❤️ enamorada del FrontEnd, 
+### 💻 Desarolladora Web, ❤️ enamorada del FrontEnd y del Diseño Web 
 
-### 📱 Descubriendo el encantador mundo del Desarrollo de Apps Mobile en Kotlin (Android Studio) 🥰
+### 📱 Descubriendo el encantador mundo del Desarrollo de Apps Mobile en Kotlin (Android Studio)🥰
 
-### 👩‍🎓 Estudiante constante, siempre aprendiendo nuevas tecnologías 
+### 👩‍🎓 Estudiante constante, siempre aprendiendo nuevas tecnologías
 
 ### 👩‍🏫 Profesor virtual universitario
 
 ## **Tecnologías en las que trabajado**
 
-- Kotlin
-- Android Studio
-- Laravel
-- BootStrap
-- HTML
-- CSS
-- PHP
-- MySql
-- PostgreSQL
-- Figma
-- AdobeXD
-- BootStrap Studio
+## - Kotlin
+## - Android Studio
+## - Laravel
+## - BootStrap
+## - HTML
+## - CSS
+## - PHP
+## - MySql
+## - PostgreSQL
+## - Figma
+## - AdobeXD
+## - BootStrap Studio
 
 
 <!--
