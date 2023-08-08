@@ -11,7 +11,7 @@
 
 #### 💻 Desarolladora Web, ❤️ enamorada del FrontEnd y del Diseño Web 
 
-#### 📱 Descubriendo el encantador mundo del Desarrollo de Apps Mobile en Kotlin (Android Studio)🥰
+#### 📱 Descubriendo el encantador mundo del Desarrollo de Apps Mobile en Kotlin (Android Studio) 🥰
 
 #### 👩‍🎓 Estudiante constante, siempre aprendiendo nuevas tecnologías
 
