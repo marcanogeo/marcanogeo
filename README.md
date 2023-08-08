@@ -1,17 +1,18 @@
-![https://github.com/marcanog](images/bannerGithub.png)      
-Hola 👋
+![https://github.com/marcanog](images/bannerGithub.png) 
 
-🙋‍♀️ Mi nombre es Georgelys Marcano 
+## `#3366ccff` Hola 👋
 
-💻 Desarolladora Web, ❤️ enamorada del FrontEnd, 
+### 🙋‍♀️ Mi nombre es `#3366ccff` Georgelys Marcano 
 
-📱 Descubriendo el encantador mundo del Desarrollo de Apps Mobile en Kotlin (Android Studio) 🤩
+### 💻 Desarolladora Web, ❤️ enamorada del FrontEnd, 
 
-👩‍🎓 Estudiante constante, siempre aprendiendo nuevas tecnologías 
+### 📱 Descubriendo el encantador mundo del Desarrollo de Apps Mobile en Kotlin (Android Studio) 🤩
 
-👩‍🏫 Profesor virtual universitario
+### 👩‍🎓 Estudiante constante, siempre aprendiendo nuevas tecnologías 
 
-## **Tecnologías en las que trabajado**
+### 👩‍🏫 Profesor virtual universitario
+
+## `3366ccff` **Tecnologías en las que trabajado**
 
 - Kotlin
 - Android Studio
