@@ -12,7 +12,7 @@
 
 ### 👩‍🏫 Profesor virtual universitario
 
-### 100. **Tecnologías en las que trabajado**
+### **Tecnologías en las que trabajado**
     ### - Kotlin
     ### - Android Studio
     ### - Laravel
