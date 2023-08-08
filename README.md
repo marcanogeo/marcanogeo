@@ -1,4 +1,4 @@
-![https://github.com/marcanog](images/bannerGithub.png) 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/bannerGithubB.png">
   <source media="(prefers-color-scheme: light)" srcset="images/bannerGithub.png">
