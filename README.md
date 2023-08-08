@@ -7,7 +7,7 @@
 
 ## Hola 👋
 
-#### 🙋‍♀️ Mi nombre es ## Georgelys Marcano 
+#### 🙋‍♀️ Mi nombre es :arrow_forward: Georgelys Marcano 
 
 #### 💻 Desarolladora Web, ❤️ enamorada del FrontEnd y del Diseño Web 
 
@@ -18,18 +18,18 @@
 #### 👩‍🏫 Profesor virtual universitario
 
 #### ✨ **Tecnologías en las que trabajado** ✨
- #### :pushpin: Kotlin
- #### :pushpin: Android Studio
- #### :pushpin: Laravel
- #### :pushpin: BootStrap
- #### :pushpin: HTML
- #### :pushpin: CSS
- #### :pushpin: PHP
- #### :pushpin: MySql
- #### :pushpin: PostgreSQL
- #### :pushpin: Figma
- #### :pushpin: AdobeXD
- #### :pushpin: BootStrap Studio
+ #### :eight_spoked_asterisk: Kotlin
+ #### :eight_spoked_asterisk: Android Studio
+ #### :eight_spoked_asterisk: Laravel
+ #### :eight_spoked_asterisk: BootStrap
+ #### :eight_spoked_asterisk: HTML
+ #### :eight_spoked_asterisk: CSS
+ #### :eight_spoked_asterisk: PHP
+ #### :eight_spoked_asterisk: MySql
+ #### :eight_spoked_asterisk: PostgreSQL
+ #### :eight_spoked_asterisk: Figma
+ #### :eight_spoked_asterisk: AdobeXD
+ #### :eight_spoked_asterisk: BootStrap Studio
 
 
 <!--
