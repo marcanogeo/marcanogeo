@@ -1,8 +1,8 @@
 ![https://github.com/marcanog](images/bannerGithub.png) 
 
-## `#3366ccff` Hola 👋
+## `#3366cc` Hola 👋
 
-### 🙋‍♀️ Mi nombre es `#3366ccff` Georgelys Marcano 
+### 🙋‍♀️ Mi nombre es `#3366cc` Georgelys Marcano 
 
 ### 💻 Desarolladora Web, ❤️ enamorada del FrontEnd, 
 
@@ -12,7 +12,7 @@
 
 ### 👩‍🏫 Profesor virtual universitario
 
-## `3366ccff` **Tecnologías en las que trabajado**
+## `#3366cc` **Tecnologías en las que trabajado**
 
 - Kotlin
 - Android Studio
