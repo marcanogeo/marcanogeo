@@ -16,7 +16,7 @@
 
 #### 👩‍🏫 Profesor virtual universitario
 
-#### ✨ **Tecnologías en las que trabajado** ✨
+#### ✨ **Tecnologías en las que he trabajado** ✨
  #### :eight_spoked_asterisk: Kotlin
  #### :eight_spoked_asterisk: Android Studio
  #### :eight_spoked_asterisk: Laravel
