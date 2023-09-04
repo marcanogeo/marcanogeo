@@ -30,7 +30,7 @@
  #### :eight_spoked_asterisk: AdobeXD
  #### :eight_spoked_asterisk: BootStrap Studio
 
-<a href="https://app.daily.dev/marcanog"><img src="https://api.daily.dev/devcards/5b63553c292e479ea9474c9a11bfbece.png?r=nxu" width="400" alt="Georgelys Marcano's Dev Card"/></a>
+<a href="https://app.daily.dev/marcanog"><img src="https://api.daily.dev/devcards/5b63553c292e479ea9474c9a11bfbece.png?r=nxu" width="200" alt="Georgelys Marcano's Dev Card"/></a>
 
 <!--
 **GMarcanoB/GMarcanoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
