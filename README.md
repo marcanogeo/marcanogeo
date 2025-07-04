@@ -4,7 +4,7 @@
 
 ## 👋 ¡Hola! Soy Georgelys Marcano
 
-Apasionada desarrolladora frontend con sólida experiencia en el desarrollo de soluciones web modernas, motivada, creativa y orientada al detalle. Mi enfoque es construir productos digitales escalables y accesibles que mejoren la experiencia de usuario. Me encanta aprender nuevas tecnologías y colaborar en equipos multidisciplinarios.
+Apasionada desarrolladora frontend con sólida experiencia en el desarrollo de soluciones web modernas, motivada, creativa y orientada al detalle. Miembro fundador de DevelRoot. Mi enfoque es construir productos digitales escalables y accesibles que mejoren la experiencia de usuario. Me encanta aprender nuevas tecnologías y colaborar en equipos multidisciplinarios.
 
 ---
 
