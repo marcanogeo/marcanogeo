@@ -1,6 +1,6 @@
 ![Banner](./images/banner-github-georgelys_Version22.png)
 
-# 👩‍💻 Georgelys Marcano
+<!--# 👩‍💻 Georgelys Marcano-->
 
 ## 👋 ¡Hola! Soy Georgelys Marcano
 
