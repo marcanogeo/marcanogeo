@@ -57,7 +57,7 @@ Apasionada desarrolladora frontend con sólida experiencia en el desarrollo de s
 ## 🎓 Certificaciones
 
 - Administración avanzada de MS 365 (en curso)
-- Azure Developer Jr. (en curso)
+- Azure Developer Jr. (2025)
 - Marketing Digital y Posicionamiento Web (2025)
 - HTML, CSS, PHP Courses (SoloLearn, 2019)
 - NDG Linux Unhatched (Cisco, 2018)
