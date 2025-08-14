@@ -33,7 +33,7 @@ Apasionada desarrolladora frontend con sólida experiencia en el desarrollo de s
 - **Versionado:**  
   Git, GitHub, GitLab
 - **Herramientas:**  
-  Figma, Bootstrap Studio, Adobe InDesign, Visual Studio Code, Linux, OpenCart, WordPress, Docker
+  Figma, Bootstrap Studio, Adobe InDesign, Visual Studio Code, JetBrains (PhpStorm, WebStorm, IntelliJ IDEA, PyCharm), Linux, OpenCart, WordPress, Docker
 - **Metodologías:**  
   Scrum, Kanban, XP (Extreme Programming), UML
 
