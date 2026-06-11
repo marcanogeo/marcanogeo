@@ -56,7 +56,7 @@ Apasionada desarrolladora frontend con sólida experiencia en el desarrollo de s
 
 ## 🎓 Certificaciones
 
-- IA generativa (En curso)
+- IA generativa (Oct 2025)
 - Administración avanzada de MS 365 (Sep 2025)
 - Azure Developer Jr. (Jul 2025)
 - Marketing Digital y Posicionamiento Web (Jun 2025)
