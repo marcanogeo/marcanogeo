@@ -69,7 +69,7 @@ Apasionada desarrolladora frontend con sólida experiencia en el desarrollo de s
 ## 📫 Contacto
 
 <!-- - **Email:** georgelysmarcanob@gmail.com-->
-- **Web:** [www.georgelysmarcano.com](https://georgelys-marcano.vercel.app/)
+- **Web:** [georgelys-marcano](https://georgelys-marcano.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/georgelys-marcano](https://www.linkedin.com/in/georgelys-marcano/)
 - **GitHub:** [@marcanogeo](https://github.com/marcanogeo)
   
