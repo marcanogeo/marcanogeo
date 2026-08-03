@@ -83,6 +83,7 @@ Apasionada desarrolladora frontend con sólida experiencia en el desarrollo de s
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+[CC Licenses](https://https://creativecommons.org/cc-licenses/)
 
 
 ## Badges
