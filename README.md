@@ -73,7 +73,7 @@ Apasionada desarrolladora frontend con sólida experiencia en el desarrollo de s
 - **LinkedIn:** [linkedin.com/in/georgelys-marcano](https://www.linkedin.com/in/georgelys-marcano/)
 - **GitHub:** [@marcanogeo](https://github.com/marcanogeo)
   
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portgeorgelysmarcano.jimdofree.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://georgelys-marcano.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/georgelys-marcano/))
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/](https://x.com/G30D3V_))
 [![instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instgaram&logoColor=white)](https://www.instagram.com/georgelysmarcano/)
