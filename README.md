@@ -2,9 +2,19 @@
 
 <!--# 👩‍💻 Georgelys Marcano-->
 
-## 👋 ¡Hola! Soy Georgelys Marcano
+# Hola, soy Georgelys 👋
 
-Apasionada desarrolladora frontend con sólida experiencia en el desarrollo de soluciones web modernas, motivada, creativa y orientada al detalle. Miembro fundador de DevelRoot. Mi enfoque es construir productos digitales escalables y accesibles que mejoren la experiencia de usuario. Me encanta aprender nuevas tecnologías y colaborar en equipos multidisciplinarios.
+### Frontend Developer · UX/UI Designer · IoT & Connected Systems
+
+Diseño interfaces claras y construyo la tecnología que las hace funcionar.
+
+[Portfolio](https://georgelys-marcano.vercel.app) [Linkedin](https://www.linkedin.com/in/georgelys-marcano)       
+
+---
+
+Desarrolladora Frontend y diseñadora UX/UI, especializada en crear interfaces web modernas, accesibles y centradas en las personas. Mi trabajo se extiende hacia sistemas conectados e IoT, integrando interfaces, dispositivos, datos y visualización en soluciones completas.
+Actualmente desarrollo una plataforma IoT de monitorización ambiental en tiempo real como parte de mi Máster en Software y Sistemas, combinando ESP32, MQTT, Node-RED, bases de datos y visualización de datos. Soy además miembro fundadora de DevelRoot.
+Me interesa especialmente la tecnología que conecta capas: de la interfaz al dato y del dato a la decisión, y los proyectos donde diseño, software y sistemas convergen para resolver problemas reales.
 
 ---
 
