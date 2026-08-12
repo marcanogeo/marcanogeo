@@ -1,5 +1,9 @@
-![Banner](./images/themed_professional_banner.png)
-
+<p style="center">
+  <img src="./images/themed_professional_banner.png"
+       alt="Georgelys Marcano — Frontend · UX/UI · Connected Systems"
+       width="100%"
+       style="border-radius: 12px;">
+</p>
 <!--# 👩‍💻 Georgelys Marcano-->
 
 # Hola, soy Georgelys 👋
@@ -11,7 +15,7 @@ Diseño interfaces claras y construyo la tecnología que las hace funcionar.
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://georgelys-marcano.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/georgelys-marcano/))
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/](https://x.com/G30D3V_))
-[![instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instgaram&logoColor=white)](https://www.instagram.com/georgelysmarcano/)   
+[![instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instgaram&logoColor=white)](https://www.instagram.com/georgelysmarcano/)
 
 ---
 
