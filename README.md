@@ -1,4 +1,4 @@
-![Banner](./images/banner-github-georgelys_Version22.png)
+![Banner](./images/themed_professional_banner.png)
 
 <!--# 👩‍💻 Georgelys Marcano-->
 
