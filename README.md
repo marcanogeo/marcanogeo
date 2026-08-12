@@ -4,7 +4,7 @@
 
 # Hola, soy Georgelys 👋
 
-### Frontend Developer · UX/UI Designer · IoT & Connected Systems
+### Frontend · UX/UI · Connected Systems
 
 Diseño interfaces claras y construyo la tecnología que las hace funcionar.
 
