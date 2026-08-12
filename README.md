@@ -8,7 +8,10 @@
 
 Diseño interfaces claras y construyo la tecnología que las hace funcionar.
 
-[Portfolio](https://georgelys-marcano.vercel.app) [Linkedin](https://www.linkedin.com/in/georgelys-marcano)       
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://georgelys-marcano.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/georgelys-marcano/))
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/](https://x.com/G30D3V_))
+[![instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instgaram&logoColor=white)](https://www.instagram.com/georgelysmarcano/)   
 
 ---
 
