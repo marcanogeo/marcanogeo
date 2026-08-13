@@ -1,5 +1,5 @@
 <p style="center">
-  <img src="./images/themed_professional_banner.png"
+  <img src="./images/banner-github-georgelys-v5.svg"
        alt="Georgelys Marcano — Frontend · UX/UI · Connected Systems"
        width="100%"
        style="border-radius: 12px;">
